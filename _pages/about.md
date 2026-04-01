@@ -26,6 +26,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am a PhD candidate in the [Department of Network and Data Science (DNDS)](https://networkdatascience.ceu.edu/) at [Central European University](https://www.ceu.edu/) in Vienna, Austria, supervised by Prof. [Federico Battiston](https://people.ceu.edu/federico_battiston).
+
+My research focuses on **team dynamics**, **synergy**, and **division of labor** in collaborative environments, using open-source datasets from software, science, and sports.
+
+Prior to my PhD, I earned a BS-MS Dual Degree from [IISER Mohali](https://www.iisermohali.ac.in/) with a major in Mathematics and a minor in Data Sciences.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
